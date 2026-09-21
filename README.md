@@ -12,18 +12,13 @@
 <img src="https://img.shields.io/badge/End--to--End-Product%20Ownership-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Focus-Production%20Delivery-334155?style=for-the-badge" />
 
-<br/><br/>
-
-<a href="mailto:zaighamfarid@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/zaighamfarid">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
+<br/>
 
 </div>
 
+
 ---
+
 
 ## Profile
 
