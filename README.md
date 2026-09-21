@@ -365,7 +365,7 @@ Working directly with founders, clients, and product teams on complete mobile pr
 
 ---
 
-## Senior iOS Developer · US Remote Contractor
+## Senior Mobile Developer · US Remote Contractor
 
 **March 2022 — October 2025**
 
