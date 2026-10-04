@@ -51,165 +51,27 @@ I have worked with startups, product companies, and engineering teams across **m
 
 ---
 
-# Flagship Product Ownership
+# Projects
 
-These are products where my involvement extended across the **complete development lifecycle**, rather than an isolated module or individual feature.
+Production mobile products across native iOS, watchOS, Flutter, and React Native. Open a project to explore its feature gallery, engineering contributions, technologies, and store links.
 
----
-
-## AutoPlace
-
-### Automotive Marketplace · React Native · End-to-End Product Ownership
-
-<div>
-
-<a href="https://apps.apple.com/us/app/autoplace-al-makina-n%C3%AB-shitje/id6753959493">
-  <img src="https://img.shields.io/badge/App%20Store-View%20App-000000?style=flat-square&logo=apple&logoColor=white" />
-</a>
-
-<a href="https://play.google.com/store/apps/details?id=al.autoplace.app">
-  <img src="https://img.shields.io/badge/Google%20Play-View%20App-414141?style=flat-square&logo=googleplay&logoColor=white" />
-</a>
-
-</div>
-
-**AutoPlace** is a complete automotive marketplace connecting vehicle buyers, private sellers, and dealerships through an integrated mobile and web ecosystem.
-
-I worked on the product **from idea and product definition through architecture, development, backend coordination, QA, deployment, and production delivery**.
-
-### Product Ownership
-
-▸ Product requirements and technical planning
-▸ React Native application architecture
-▸ iOS and Android application development
-▸ Vehicle listing and inventory workflows
-▸ Dealer and private-seller experiences
-▸ Advanced search and filtering
-▸ Authentication and user profiles
-▸ Favorites and saved searches
-▸ In-app communication workflows
-▸ Location-aware functionality
-▸ REST API integration
-▸ Web and mobile ecosystem coordination
-▸ QA and production stabilization
-▸ App Store and Google Play delivery
-
-**Core Stack**
-
-`React Native` `TypeScript` `JavaScript` `REST APIs` `Mobile Architecture`
-
-> **Ownership:** Idea → Requirements → Architecture → Development → Backend/Web Integration → QA → Store Release → Production
-
----
-
-## DirtConnect
-
-### Construction Materials Marketplace · Flutter · End-to-End Product Ownership
-
-<div>
-
-<a href="https://play.google.com/store/apps/details?id=com.dirt.connect">
-  <img src="https://img.shields.io/badge/Google%20Play-View%20App-414141?style=flat-square&logo=googleplay&logoColor=white" />
-</a>
-
-</div>
-
-**DirtConnect** is an Australian construction marketplace designed to connect contractors, site managers, businesses, and material suppliers around the movement and exchange of construction materials.
-
-I worked across the **complete product lifecycle**, from early product definition through Flutter architecture, implementation, API integration, testing, deployment, and production.
-
-### Product Ownership
-
-▸ Product requirements and workflow definition
-▸ Flutter mobile architecture
-▸ Marketplace workflows
-▸ Import and export material listings
-▸ Location-driven discovery
-▸ Personal and business account experiences
-▸ Authentication and user management
-▸ Listing and image management
-▸ Search and filtering
-▸ Push notifications
-▸ API and backend integration
-▸ Production QA and stabilization
-▸ Google Play delivery
-
-**Core Stack**
-
-`Flutter` `Dart` `REST APIs` `Firebase` `Location Services` `Marketplace Architecture`
-
-> **Ownership:** Idea → Product Definition → Architecture → Development → API Integration → QA → Deployment → Production
-
----
-
-# Selected Engineering Work
-
-## Expo Pass
-
-### Lead Mobile Developer · Native iOS
-
-<a href="https://apps.apple.com/us/app/expo-pass/id921625648">
-  <img src="https://img.shields.io/badge/App%20Store-Expo%20Pass-000000?style=flat-square&logo=apple&logoColor=white" />
-</a>
-
-Production event-management platform involving **offline workflows, payments, event operations, and hardware integrations**.
-
-**Engineering Highlights**
-
-▸ Native Swift and UIKit development
-▸ Offline-first workflows and local persistence
-▸ Stripe Terminal integration
-▸ Offline payment handling
-▸ Zebra printer SDK integration
-▸ Complex event-management workflows
-▸ Firebase and AWS integrations
-▸ Production debugging and release management
-
-**Stack:** `Swift` `UIKit` `Realm` `Stripe Terminal` `Firebase` `AWS`
-
----
-
-## Clinical StudyPal
-
-### iOS & watchOS Engineer · Healthcare & Clinical Research
-
-<a href="https://apps.apple.com/us/app/clinical-studypal/id1537595111">
-  <img src="https://img.shields.io/badge/App%20Store-iOS%20App-000000?style=flat-square&logo=apple&logoColor=white" />
-</a>
-
-<a href="https://apps.apple.com/us/app/clinical-studypal-iwatch/id1544172407">
-  <img src="https://img.shields.io/badge/App%20Store-watchOS%20App-000000?style=flat-square&logo=apple&logoColor=white" />
-</a>
-
-Clinical research ecosystem involving **iPhone, Apple Watch, wearable sensors, health information, and background synchronization**.
-
-**Engineering Highlights**
-
-▸ HealthKit integration
-▸ Native watchOS development
-▸ Heart-rate data collection
-▸ Accelerometer and gyroscope processing
-▸ CoreMotion integration
-▸ WatchConnectivity
-▸ Background synchronization
-▸ CoreData persistence
-▸ Production monitoring and stability
-
-**Stack:** `Swift` `watchOS` `HealthKit` `CoreMotion` `CoreData` `WatchConnectivity`
-
----
-
-## Multi-Platform Synchronization Engine
-
-### Architecture · Concurrency · Offline-First Systems
+<table>
+<tr>
+<td width="33%" valign="top"><a href="projects/autoplace/README.md"><img src="assets/projects/autoplace/cover.png" alt="AutoPlace portfolio cover" width="320" /></a><br/><strong><a href="projects/autoplace/README.md">AutoPlace</a></strong><br/>Automotive marketplace connecting vehicle buyers, private sellers, and dealerships.<br/><a href="projects/autoplace/README.md">View project →</a></td>
+<td width="33%" valign="top"><a href="projects/dirtconnect/README.md"><img src="assets/projects/dirtconnect/cover.png" alt="DirtConnect portfolio cover" width="320" /></a><br/><strong><a href="projects/dirtconnect/README.md">DirtConnect</a></strong><br/>Australian construction marketplace for discovering and exchanging construction materials.<br/><a href="projects/dirtconnect/README.md">View project →</a></td>
+<td width="33%" valign="top"><a href="projects/expo-pass/README.md"><img src="assets/projects/expo-pass/cover.png" alt="Expo Pass portfolio cover" width="320" /></a><br/><strong><a href="projects/expo-pass/README.md">Expo Pass</a></strong><br/>Event-management platform combining offline operations, payments, and hardware integrations.<br/><a href="projects/expo-pass/README.md">View project →</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="projects/clinical-studypal/README.md"><img src="assets/projects/clinical-studypal/cover.png" alt="Clinical StudyPal portfolio cover" width="320" /></a><br/><strong><a href="projects/clinical-studypal/README.md">Clinical StudyPal</a></strong><br/>Clinical research ecosystem connecting iPhone, Apple Watch, wearable sensors, and health data.<br/><a href="projects/clinical-studypal/README.md">View project →</a></td>
+<td width="33%" valign="top"><a href="projects/clinical-studypal-iwatch/README.md"><img src="assets/projects/clinical-studypal-iwatch/cover.png" alt="Multi-Platform Synchronization Engine portfolio cover" width="320" /></a><br/><strong><a href="projects/clinical-studypal-iwatch/README.md">Multi-Platform Synchronization Engine</a></strong><br/>### Architecture · Concurrency · Offline-First Systems
 
 Designed a **state-aware synchronization architecture** supporting applications operating across:
 
-<div align="center">
+&lt;div align=&quot;center&quot;&gt;
 
 `iPhone` · `iPad` · `macOS` · `Android` · `Web` · `Kiosk`
 
-</div>
+&lt;/div&gt;
 
 **Engineering Highlights**
 
@@ -267,21 +129,98 @@ A selection of production products I have worked on across **native iOS, watchOS
 
 ---
 
-## React Native Media Suite
+## Clinical StudyPal iWatch
 
-Worked as a **Senior React Native Developer** across a suite of production media applications involving frontend rebuilds, API integrations, media workflows, subscriptions, performance optimization, and App Store delivery.
+Apple Watch companion for clinical research, study participation, and connected health workflows.<br/><a href="projects/clinical-studypal-iwatch/README.md">View project →</a></td>
+<td width="33%" valign="top"><a href="projects/woqod/README.md"><img src="assets/projects/woqod/cover.png" alt="WOQOD portfolio cover" width="320" /></a><br/><strong><a href="projects/woqod/README.md">WOQOD</a></strong><br/>Native iOS services application with service discovery and location-based experiences.<br/><a href="projects/woqod/README.md">View project →</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="projects/cvs-health/README.md"><img src="assets/projects/cvs-health/cover.png" alt="CVS Health portfolio cover" width="320" /></a><br/><strong><a href="projects/cvs-health/README.md">CVS Health</a></strong><br/>Healthcare application supporting prescription management, rewards, and shopping workflows.<br/><a href="projects/cvs-health/README.md">View project →</a></td>
+<td width="33%" valign="top"><a href="projects/chick-fil-a/README.md"><img src="assets/projects/chick-fil-a/cover.png" alt="Chick-fil-A portfolio cover" width="320" /></a><br/><strong><a href="projects/chick-fil-a/README.md">Chick-fil-A</a></strong><br/>Mobile ordering application with rewards, order customization, and delivery experiences.<br/><a href="projects/chick-fil-a/README.md">View project →</a></td>
+<td width="33%" valign="top"><a href="projects/mytime/README.md"><img src="assets/projects/mytime/cover.png" alt="MyTime Scheduler for Merchants portfolio cover" width="320" /></a><br/><strong><a href="projects/mytime/README.md">MyTime Scheduler for Merchants</a></strong><br/>Business scheduling application with appointments, point-of-sale, and client communication.<br/><a href="projects/mytime/README.md">View project →</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="projects/smoke-with-me/README.md"><img src="assets/projects/smoke-with-me/cover.png" alt="Smoke With Me portfolio cover" width="320" /></a><br/><strong><a href="projects/smoke-with-me/README.md">Smoke With Me</a></strong><br/>Social networking application for community discovery, social feeds, and live sessions.<br/><a href="projects/smoke-with-me/README.md">View project →</a></td>
+<td width="33%" valign="top"><a href="projects/music-player/README.md"><img src="assets/projects/music-player/cover.png" alt="React Native Media Suite portfolio cover" width="320" /></a><br/><strong><a href="projects/music-player/README.md">React Native Media Suite</a></strong><br/>Worked as a **Senior React Native Developer** across a suite of production media applications involving frontend rebuilds, API integrations, media workflows, subscriptions, performance optimization, and App Store delivery.
 
 | Application                         | Store                                                                                      |
 | ----------------------------------- | ------------------------------------------------------------------------------------------ |
-| **Music Player — Songs & Videos**   | [View on App Store](https://apps.apple.com/us/app/music-player-songs-videos/id1662272925)  |
+| **Music Player — Songs &amp; Videos**   | [View on App Store](https://apps.apple.com/us/app/music-player-songs-videos/id1662272925)  |
 | **Offline Music Player**            | [View on App Store](https://apps.apple.com/us/app/offline-music-player/id1259949354)       |
-| **Myt — Videos & Songs Streaming**  | [View on App Store](https://apps.apple.com/us/app/myt-videos-songs-streaming/id6738610571) |
-| **InSave — Reels, Stories & Video** | [View on App Store](https://apps.apple.com/us/app/insave-reels-stories-video/id6599859154) |
+| **Myt — Videos &amp; Songs Streaming**  | [View on App Store](https://apps.apple.com/us/app/myt-videos-songs-streaming/id6738610571) |
+| **InSave — Reels, Stories &amp; Video** | [View on App Store](https://apps.apple.com/us/app/insave-reels-stories-video/id6599859154) |
 | **SaveTik — Save Tik Videos**       | [View on App Store](https://apps.apple.com/us/app/savetik-save-tik-videos/id6774569640)    |
 
 **Engineering Focus**
 
 `React Native` · `API Integration` · `Media Playback` · `Subscriptions` · `State Management` · `Performance` · `Production Delivery`
+
+---
+
+## Music Player — Songs &amp; Videos
+
+Music and video application with discovery, playback, and a personal media library.<br/><a href="projects/music-player/README.md">View project →</a></td>
+<td width="33%" valign="top"><a href="projects/offline-music-player/README.md"><img src="assets/projects/offline-music-player/cover.png" alt="Offline Music Player portfolio cover" width="320" /></a><br/><strong><a href="projects/offline-music-player/README.md">Offline Music Player</a></strong><br/>Music application with offline listening, smart playlists, and audio equalizer controls.<br/><a href="projects/offline-music-player/README.md">View project →</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="projects/myt/README.md"><img src="assets/projects/myt/cover.png" alt="Myt — Videos &amp; Songs Streaming portfolio cover" width="320" /></a><br/><strong><a href="projects/myt/README.md">Myt — Videos &amp; Songs Streaming</a></strong><br/>Music and video streaming application with discovery, search, and playback.<br/><a href="projects/myt/README.md">View project →</a></td>
+<td width="33%" valign="top"><a href="projects/insave/README.md"><img src="assets/projects/insave/cover.png" alt="InSave — Reels, Stories &amp; Video portfolio cover" width="320" /></a><br/><strong><a href="projects/insave/README.md">InSave — Reels, Stories &amp; Video</a></strong><br/>Media utility for finding, saving, and sharing stories, reels, and videos.<br/><a href="projects/insave/README.md">View project →</a></td>
+<td width="33%" valign="top"><a href="projects/savetik/README.md"><img src="assets/projects/savetik/cover.png" alt="SaveTik — Save Tik Videos portfolio cover" width="320" /></a><br/><strong><a href="projects/savetik/README.md">SaveTik — Save Tik Videos</a></strong><br/>Video utility for finding videos, saving media, and organizing collections.<br/><a href="projects/savetik/README.md">View project →</a></td>
+</tr>
+</table>
+
+---
+
+# Architecture & Specialized Engineering
+
+## Multi-Platform Synchronization Engine
+
+### Architecture · Concurrency · Offline-First Systems
+
+Designed a **state-aware synchronization architecture** supporting applications operating across:
+
+<div align="center">
+
+`iPhone` · `iPad` · `macOS` · `Android` · `Web` · `Kiosk`
+
+</div>
+
+**Engineering Highlights**
+
+▸ Server-state validation
+▸ Periodic synchronization
+▸ Conflict-safe outbound updates
+▸ Network-state awareness
+▸ Retry strategies
+▸ Offline persistence
+▸ Concurrent operation management
+▸ Background processing
+▸ Cross-platform state coordination
+
+**Stack:** `Swift` `OperationQueue` `Swift Concurrency` `REST APIs` `CoreData`
+
+
+---
+
+## iPad LiDAR Measurement System
+
+### ARKit · LiDAR · Precision Interaction
+
+Built an iPad-focused real-world measurement workflow using **ARKit and LiDAR**.
+
+**Engineering Highlights**
+
+▸ LiDAR-based dimensional measurement
+▸ ARKit scene processing
+▸ Interactive measurement overlays
+▸ Draggable measurement endpoints
+▸ Camera-space coordinate handling
+▸ Real-time visualization
+▸ Measurement calculations in inches
+▸ Precision-focused touch interaction
+
+**Stack:** `Swift` `SwiftUI` `UIKit` `ARKit` `RealityKit` `LiDAR`
+
 
 ---
 
