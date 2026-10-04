@@ -72,12 +72,11 @@ Production mobile products across native iOS, watchOS, Flutter, and React Native
 <td width="320" valign="top"><a href="projects/mytime/README.md"><img src="assets/projects/mytime/cover.png" alt="MyTime Scheduler for Merchants portfolio cover" width="320" /></a><br/><strong><a href="projects/mytime/README.md">MyTime Scheduler for Merchants</a></strong><br/>Business scheduling application with appointments, point-of-sale, and client communication.<br/><a href="projects/mytime/README.md">View project →</a></td>
 </tr>
 <tr>
-<td width="320" valign="top"><a href="projects/smoke-with-me/README.md"><img src="assets/projects/smoke-with-me/cover.png" alt="Smoke With Me portfolio cover" width="320" /></a><br/><strong><a href="projects/smoke-with-me/README.md">Smoke With Me</a></strong><br/>Social networking application for community discovery, social feeds, and live sessions.<br/><a href="projects/smoke-with-me/README.md">View project →</a></td>
 <td width="320" valign="top"><a href="projects/music-player/README.md"><img src="assets/projects/music-player/cover.png" alt="Music Player — Songs &amp; Videos portfolio cover" width="320" /></a><br/><strong><a href="projects/music-player/README.md">Music Player — Songs &amp; Videos</a></strong><br/>Music and video application with discovery, playback, and a personal media library.<br/><a href="projects/music-player/README.md">View project →</a></td>
 <td width="320" valign="top"><a href="projects/offline-music-player/README.md"><img src="assets/projects/offline-music-player/cover.png" alt="Offline Music Player portfolio cover" width="320" /></a><br/><strong><a href="projects/offline-music-player/README.md">Offline Music Player</a></strong><br/>Music application with offline listening, smart playlists, and audio equalizer controls.<br/><a href="projects/offline-music-player/README.md">View project →</a></td>
+<td width="320" valign="top"><a href="projects/myt/README.md"><img src="assets/projects/myt/cover.png" alt="Myt — Videos &amp; Songs Streaming portfolio cover" width="320" /></a><br/><strong><a href="projects/myt/README.md">Myt — Videos &amp; Songs Streaming</a></strong><br/>Music and video streaming application with discovery, search, and playback.<br/><a href="projects/myt/README.md">View project →</a></td>
 </tr>
 <tr>
-<td width="320" valign="top"><a href="projects/myt/README.md"><img src="assets/projects/myt/cover.png" alt="Myt — Videos &amp; Songs Streaming portfolio cover" width="320" /></a><br/><strong><a href="projects/myt/README.md">Myt — Videos &amp; Songs Streaming</a></strong><br/>Music and video streaming application with discovery, search, and playback.<br/><a href="projects/myt/README.md">View project →</a></td>
 <td width="320" valign="top"><a href="projects/insave/README.md"><img src="assets/projects/insave/cover.png" alt="InSave — Reels, Stories &amp; Video portfolio cover" width="320" /></a><br/><strong><a href="projects/insave/README.md">InSave — Reels, Stories &amp; Video</a></strong><br/>Media utility for finding, saving, and sharing stories, reels, and videos.<br/><a href="projects/insave/README.md">View project →</a></td>
 <td width="320" valign="top"><a href="projects/savetik/README.md"><img src="assets/projects/savetik/cover.png" alt="SaveTik — Save Tik Videos portfolio cover" width="320" /></a><br/><strong><a href="projects/savetik/README.md">SaveTik — Save Tik Videos</a></strong><br/>Video utility for finding videos, saving media, and organizing collections.<br/><a href="projects/savetik/README.md">View project →</a></td>
 </tr>
@@ -200,7 +199,7 @@ Experience designing applications that continue operating reliably under limited
 
 # Professional Experience
 
-## Independent Senior Mobile & Product Engineer
+## Full-time Freelancer · Independent Senior Mobile & Product Engineer
 
 **2025 — Present**
 
@@ -218,9 +217,17 @@ Working directly with founders, clients, and product teams on complete mobile pr
 
 ---
 
+## Senior Mobile Developer · US Contractor
+
+**2024 — 2025**
+
+Continued mobile engineering contract work across production applications and product delivery.
+
+---
+
 ## Senior Mobile Developer · US Remote Contractor
 
-**March 2022 — October 2025**
+**2021 — 2024**
 
 ▸ Led mobile-development initiatives and complex feature implementation
 ▸ Built production features using Swift, UIKit, and SwiftUI
@@ -236,7 +243,7 @@ Working directly with founders, clients, and product teams on complete mobile pr
 
 ## iOS Developer · Delve Health
 
-**June 2020 — March 2022**
+**2019 — 2021**
 
 ▸ Developed healthcare applications for iPhone and Apple Watch
 ▸ Integrated HealthKit and wearable sensor data
