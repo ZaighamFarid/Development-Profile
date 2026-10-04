@@ -53,34 +53,20 @@ I have worked with startups, product companies, and engineering teams across **m
 
 # Projects
 
-Production mobile products across native iOS, watchOS, Flutter, and React Native. Open a project to explore its feature gallery, engineering contributions, technologies, and store links.
+Six featured mobile products. Open a project to explore its screenshots, engineering contributions, technologies, and store links.
 
 <table>
 <tr>
-<td width="320" valign="top"><a href="projects/autoplace/README.md"><img src="assets/projects/autoplace/cover.png" alt="AutoPlace portfolio cover" width="320" /></a><br/><strong><a href="projects/autoplace/README.md">AutoPlace</a></strong><br/>Automotive marketplace connecting vehicle buyers, private sellers, and dealerships.<br/><a href="projects/autoplace/README.md">View project →</a></td>
-<td width="320" valign="top"><a href="projects/dirtconnect/README.md"><img src="assets/projects/dirtconnect/cover.png" alt="DirtConnect portfolio cover" width="320" /></a><br/><strong><a href="projects/dirtconnect/README.md">DirtConnect</a></strong><br/>Australian construction marketplace for discovering and exchanging construction materials.<br/><a href="projects/dirtconnect/README.md">View project →</a></td>
-<td width="320" valign="top"><a href="projects/expo-pass/README.md"><img src="assets/projects/expo-pass/cover.png" alt="Expo Pass portfolio cover" width="320" /></a><br/><strong><a href="projects/expo-pass/README.md">Expo Pass</a></strong><br/>Event-management platform combining offline operations, payments, and hardware integrations.<br/><a href="projects/expo-pass/README.md">View project →</a></td>
-</tr>
-<tr>
-<td width="320" valign="top"><a href="projects/clinical-studypal/README.md"><img src="assets/projects/clinical-studypal/cover.png" alt="Clinical StudyPal portfolio cover" width="320" /></a><br/><strong><a href="projects/clinical-studypal/README.md">Clinical StudyPal</a></strong><br/>Clinical research ecosystem connecting iPhone, Apple Watch, wearable sensors, and health data.<br/><a href="projects/clinical-studypal/README.md">View project →</a></td>
-<td width="320" valign="top"><a href="projects/clinical-studypal-iwatch/README.md"><img src="assets/projects/clinical-studypal-iwatch/cover.png" alt="Clinical StudyPal iWatch portfolio cover" width="320" /></a><br/><strong><a href="projects/clinical-studypal-iwatch/README.md">Clinical StudyPal iWatch</a></strong><br/>Apple Watch companion for clinical research, study participation, and connected health workflows.<br/><a href="projects/clinical-studypal-iwatch/README.md">View project →</a></td>
-<td width="320" valign="top"><a href="projects/woqod/README.md"><img src="assets/projects/woqod/cover.png" alt="WOQOD portfolio cover" width="320" /></a><br/><strong><a href="projects/woqod/README.md">WOQOD</a></strong><br/>Native iOS services application with service discovery and location-based experiences.<br/><a href="projects/woqod/README.md">View project →</a></td>
-</tr>
-<tr>
-<td width="320" valign="top"><a href="projects/cvs-health/README.md"><img src="assets/projects/cvs-health/cover.png" alt="CVS Health portfolio cover" width="320" /></a><br/><strong><a href="projects/cvs-health/README.md">CVS Health</a></strong><br/>Healthcare application supporting prescription management, rewards, and shopping workflows.<br/><a href="projects/cvs-health/README.md">View project →</a></td>
-<td width="320" valign="top"><a href="projects/chick-fil-a/README.md"><img src="assets/projects/chick-fil-a/cover.png" alt="Chick-fil-A portfolio cover" width="320" /></a><br/><strong><a href="projects/chick-fil-a/README.md">Chick-fil-A</a></strong><br/>Mobile ordering application with rewards, order customization, and delivery experiences.<br/><a href="projects/chick-fil-a/README.md">View project →</a></td>
-<td width="320" valign="top"><a href="projects/mytime/README.md"><img src="assets/projects/mytime/cover.png" alt="MyTime Scheduler for Merchants portfolio cover" width="320" /></a><br/><strong><a href="projects/mytime/README.md">MyTime Scheduler for Merchants</a></strong><br/>Business scheduling application with appointments, point-of-sale, and client communication.<br/><a href="projects/mytime/README.md">View project →</a></td>
-</tr>
-<tr>
-<td width="320" valign="top"><a href="projects/music-player/README.md"><img src="assets/projects/music-player/cover.png" alt="Music Player — Songs &amp; Videos portfolio cover" width="320" /></a><br/><strong><a href="projects/music-player/README.md">Music Player — Songs &amp; Videos</a></strong><br/>Music and video application with discovery, playback, and a personal media library.<br/><a href="projects/music-player/README.md">View project →</a></td>
-<td width="320" valign="top"><a href="projects/offline-music-player/README.md"><img src="assets/projects/offline-music-player/cover.png" alt="Offline Music Player portfolio cover" width="320" /></a><br/><strong><a href="projects/offline-music-player/README.md">Offline Music Player</a></strong><br/>Music application with offline listening, smart playlists, and audio equalizer controls.<br/><a href="projects/offline-music-player/README.md">View project →</a></td>
-<td width="320" valign="top"><a href="projects/myt/README.md"><img src="assets/projects/myt/cover.png" alt="Myt — Videos &amp; Songs Streaming portfolio cover" width="320" /></a><br/><strong><a href="projects/myt/README.md">Myt — Videos &amp; Songs Streaming</a></strong><br/>Music and video streaming application with discovery, search, and playback.<br/><a href="projects/myt/README.md">View project →</a></td>
-</tr>
-<tr>
-<td width="320" valign="top"><a href="projects/insave/README.md"><img src="assets/projects/insave/cover.png" alt="InSave — Reels, Stories &amp; Video portfolio cover" width="320" /></a><br/><strong><a href="projects/insave/README.md">InSave — Reels, Stories &amp; Video</a></strong><br/>Media utility for finding, saving, and sharing stories, reels, and videos.<br/><a href="projects/insave/README.md">View project →</a></td>
-<td width="320" valign="top"><a href="projects/savetik/README.md"><img src="assets/projects/savetik/cover.png" alt="SaveTik — Save Tik Videos portfolio cover" width="320" /></a><br/><strong><a href="projects/savetik/README.md">SaveTik — Save Tik Videos</a></strong><br/>Video utility for finding videos, saving media, and organizing collections.<br/><a href="projects/savetik/README.md">View project →</a></td>
+<td width="150" valign="top"><a href="projects/autoplace/README.md"><img src="assets/projects/autoplace/cover.png" alt="AutoPlace portfolio cover" width="150" /></a><br/><strong><a href="projects/autoplace/README.md">AutoPlace</a></strong><br/>Vehicle marketplace for buyers, sellers, and dealerships.<br/><a href="projects/autoplace/README.md">View project →</a></td>
+<td width="150" valign="top"><a href="projects/dirtconnect/README.md"><img src="assets/projects/dirtconnect/cover.png" alt="DirtConnect portfolio cover" width="150" /></a><br/><strong><a href="projects/dirtconnect/README.md">DirtConnect</a></strong><br/>Construction materials marketplace in Australia.<br/><a href="projects/dirtconnect/README.md">View project →</a></td>
+<td width="150" valign="top"><a href="projects/expo-pass/README.md"><img src="assets/projects/expo-pass/cover.png" alt="Expo Pass portfolio cover" width="150" /></a><br/><strong><a href="projects/expo-pass/README.md">Expo Pass</a></strong><br/>Event operations, payments, and offline workflows.<br/><a href="projects/expo-pass/README.md">View project →</a></td>
+<td width="150" valign="top"><a href="projects/clinical-studypal/README.md"><img src="assets/projects/clinical-studypal/cover.png" alt="Clinical StudyPal portfolio cover" width="150" /></a><br/><strong><a href="projects/clinical-studypal/README.md">Clinical StudyPal</a></strong><br/>Connected clinical research and health data.<br/><a href="projects/clinical-studypal/README.md">View project →</a></td>
+<td width="150" valign="top"><a href="projects/clinical-studypal-iwatch/README.md"><img src="assets/projects/clinical-studypal-iwatch/cover.png" alt="Clinical StudyPal iWatch portfolio cover" width="150" /></a><br/><strong><a href="projects/clinical-studypal-iwatch/README.md">Clinical StudyPal iWatch</a></strong><br/>Clinical research companion for Apple Watch.<br/><a href="projects/clinical-studypal-iwatch/README.md">View project →</a></td>
+<td width="150" valign="top"><a href="projects/woqod/README.md"><img src="assets/projects/woqod/cover.png" alt="WOQOD portfolio cover" width="150" /></a><br/><strong><a href="projects/woqod/README.md">WOQOD</a></strong><br/>Location-based services for native iOS.<br/><a href="projects/woqod/README.md">View project →</a></td>
 </tr>
 </table>
+
+<p align="center"><a href="projects/README.md"><strong>More projects →</strong></a> · <a href="https://zaighamfarid.github.io/">Visit my portfolio ↗</a></p>
 
 ---
 
@@ -199,21 +185,11 @@ Experience designing applications that continue operating reliably under limited
 
 # Professional Experience
 
-## Full-time Freelancer · Independent Senior Mobile & Product Engineer
+## Senior Mobile & Product Engineer · Full-time Freelancer / Independent
 
 **2025 — Present**
 
-Working directly with founders, clients, and product teams on complete mobile products and technically complex mobile engagements.
-
-▸ End-to-end product development
-▸ Mobile architecture and technical planning
-▸ Native iOS engineering
-▸ Flutter and React Native development
-▸ Backend and API coordination
-▸ Engineering estimation
-▸ Code reviews and technical guidance
-▸ QA and release management
-▸ Production stabilization
+Working directly with founders and product teams on complete mobile products, architecture, backend coordination, code reviews, QA, and production delivery.
 
 ---
 
@@ -229,15 +205,7 @@ Continued mobile engineering contract work across production applications and pr
 
 **2021 — 2024**
 
-▸ Led mobile-development initiatives and complex feature implementation
-▸ Built production features using Swift, UIKit, and SwiftUI
-▸ Designed networking, notification, payment, and synchronization workflows
-▸ Modernized legacy applications using MVVM and modular architecture
-▸ Implemented automated testing strategies
-▸ Collaborated with product, backend, design, and QA teams
-▸ Participated in architecture and code reviews
-▸ Mentored mobile developers
-▸ Managed TestFlight and App Store releases
+Led complex mobile initiatives, modernized legacy applications, implemented payments and synchronization, mentored developers, and managed production releases.
 
 ---
 
@@ -245,13 +213,7 @@ Continued mobile engineering contract work across production applications and pr
 
 **2019 — 2021**
 
-▸ Developed healthcare applications for iPhone and Apple Watch
-▸ Integrated HealthKit and wearable sensor data
-▸ Worked with accelerometer, gyroscope, heart-rate, and activity information
-▸ Refactored legacy MVC code toward MVVM
-▸ Implemented unit testing and Crashlytics monitoring
-▸ Built push-notification and localization workflows
-▸ Worked on background synchronization and health-data persistence
+Built iPhone and Apple Watch healthcare experiences with HealthKit, wearable sensor data, background synchronization, local persistence, and testing.
 
 ---
 
