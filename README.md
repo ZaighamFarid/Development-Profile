@@ -57,115 +57,29 @@ Production mobile products across native iOS, watchOS, Flutter, and React Native
 
 <table>
 <tr>
-<td width="33%" valign="top"><a href="projects/autoplace/README.md"><img src="assets/projects/autoplace/cover.png" alt="AutoPlace portfolio cover" width="320" /></a><br/><strong><a href="projects/autoplace/README.md">AutoPlace</a></strong><br/>Automotive marketplace connecting vehicle buyers, private sellers, and dealerships.<br/><a href="projects/autoplace/README.md">View project →</a></td>
-<td width="33%" valign="top"><a href="projects/dirtconnect/README.md"><img src="assets/projects/dirtconnect/cover.png" alt="DirtConnect portfolio cover" width="320" /></a><br/><strong><a href="projects/dirtconnect/README.md">DirtConnect</a></strong><br/>Australian construction marketplace for discovering and exchanging construction materials.<br/><a href="projects/dirtconnect/README.md">View project →</a></td>
-<td width="33%" valign="top"><a href="projects/expo-pass/README.md"><img src="assets/projects/expo-pass/cover.png" alt="Expo Pass portfolio cover" width="320" /></a><br/><strong><a href="projects/expo-pass/README.md">Expo Pass</a></strong><br/>Event-management platform combining offline operations, payments, and hardware integrations.<br/><a href="projects/expo-pass/README.md">View project →</a></td>
+<td width="320" valign="top"><a href="projects/autoplace/README.md"><img src="assets/projects/autoplace/cover.png" alt="AutoPlace portfolio cover" width="320" /></a><br/><strong><a href="projects/autoplace/README.md">AutoPlace</a></strong><br/>Automotive marketplace connecting vehicle buyers, private sellers, and dealerships.<br/><a href="projects/autoplace/README.md">View project →</a></td>
+<td width="320" valign="top"><a href="projects/dirtconnect/README.md"><img src="assets/projects/dirtconnect/cover.png" alt="DirtConnect portfolio cover" width="320" /></a><br/><strong><a href="projects/dirtconnect/README.md">DirtConnect</a></strong><br/>Australian construction marketplace for discovering and exchanging construction materials.<br/><a href="projects/dirtconnect/README.md">View project →</a></td>
+<td width="320" valign="top"><a href="projects/expo-pass/README.md"><img src="assets/projects/expo-pass/cover.png" alt="Expo Pass portfolio cover" width="320" /></a><br/><strong><a href="projects/expo-pass/README.md">Expo Pass</a></strong><br/>Event-management platform combining offline operations, payments, and hardware integrations.<br/><a href="projects/expo-pass/README.md">View project →</a></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="projects/clinical-studypal/README.md"><img src="assets/projects/clinical-studypal/cover.png" alt="Clinical StudyPal portfolio cover" width="320" /></a><br/><strong><a href="projects/clinical-studypal/README.md">Clinical StudyPal</a></strong><br/>Clinical research ecosystem connecting iPhone, Apple Watch, wearable sensors, and health data.<br/><a href="projects/clinical-studypal/README.md">View project →</a></td>
-<td width="33%" valign="top"><a href="projects/clinical-studypal-iwatch/README.md"><img src="assets/projects/clinical-studypal-iwatch/cover.png" alt="Multi-Platform Synchronization Engine portfolio cover" width="320" /></a><br/><strong><a href="projects/clinical-studypal-iwatch/README.md">Multi-Platform Synchronization Engine</a></strong><br/>### Architecture · Concurrency · Offline-First Systems
-
-Designed a **state-aware synchronization architecture** supporting applications operating across:
-
-&lt;div align=&quot;center&quot;&gt;
-
-`iPhone` · `iPad` · `macOS` · `Android` · `Web` · `Kiosk`
-
-&lt;/div&gt;
-
-**Engineering Highlights**
-
-▸ Server-state validation
-▸ Periodic synchronization
-▸ Conflict-safe outbound updates
-▸ Network-state awareness
-▸ Retry strategies
-▸ Offline persistence
-▸ Concurrent operation management
-▸ Background processing
-▸ Cross-platform state coordination
-
-**Stack:** `Swift` `OperationQueue` `Swift Concurrency` `REST APIs` `CoreData`
-
----
-
-## iPad LiDAR Measurement System
-
-### ARKit · LiDAR · Precision Interaction
-
-Built an iPad-focused real-world measurement workflow using **ARKit and LiDAR**.
-
-**Engineering Highlights**
-
-▸ LiDAR-based dimensional measurement
-▸ ARKit scene processing
-▸ Interactive measurement overlays
-▸ Draggable measurement endpoints
-▸ Camera-space coordinate handling
-▸ Real-time visualization
-▸ Measurement calculations in inches
-▸ Precision-focused touch interaction
-
-**Stack:** `Swift` `SwiftUI` `UIKit` `ARKit` `RealityKit` `LiDAR`
-
----
-
-# Production Portfolio
-
-A selection of production products I have worked on across **native iOS, watchOS, React Native, and Flutter**.
-
-| Product                            | Domain / Engineering                   | Platform                                                                                                                                                                   |
-| ---------------------------------- | -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **AutoPlace**                      | End-to-End Automotive Marketplace      | [App Store](https://apps.apple.com/us/app/autoplace-al-makina-n%C3%AB-shitje/id6753959493) · [Google Play](https://play.google.com/store/apps/details?id=al.autoplace.app) |
-| **DirtConnect**                    | End-to-End Construction Marketplace    | [Google Play](https://play.google.com/store/apps/details?id=com.dirt.connect)                                                                                              |
-| **Expo Pass**                      | Events · Offline · Payments · Hardware | [App Store](https://apps.apple.com/us/app/expo-pass/id921625648)                                                                                                           |
-| **Clinical StudyPal**              | Healthcare · Clinical Research         | [App Store](https://apps.apple.com/us/app/clinical-studypal/id1537595111)                                                                                                  |
-| **Clinical StudyPal iWatch**       | watchOS · HealthKit · Sensors          | [App Store](https://apps.apple.com/us/app/clinical-studypal-iwatch/id1544172407)                                                                                           |
-| **WOQOD**                          | Native iOS · Services · Maps           | [App Store](https://apps.apple.com/us/app/woqod/id1403430375)                                                                                                              |
-| **CVS Health**                     | Healthcare · SDKs · Authentication     | [App Store](https://apps.apple.com/us/app/cvs-health/id395545555)                                                                                                          |
-| **Chick-fil-A**                    | Ordering · Delivery · Notifications    | [App Store](https://apps.apple.com/us/app/chick-fil-a/id488818252)                                                                                                         |
-| **MyTime Scheduler for Merchants** | Scheduling · Business Operations       | [App Store](https://apps.apple.com/pk/app/mytime-scheduler-for-merchants/id982024232)                                                                                      |
-| **Smoke With Me**                  | Social Networking · Communication      | [App Store](https://apps.apple.com/us/app/smoke-with-me/id6741205102)                                                                                                      |
-
----
-
-## Clinical StudyPal iWatch
-
-Apple Watch companion for clinical research, study participation, and connected health workflows.<br/><a href="projects/clinical-studypal-iwatch/README.md">View project →</a></td>
-<td width="33%" valign="top"><a href="projects/woqod/README.md"><img src="assets/projects/woqod/cover.png" alt="WOQOD portfolio cover" width="320" /></a><br/><strong><a href="projects/woqod/README.md">WOQOD</a></strong><br/>Native iOS services application with service discovery and location-based experiences.<br/><a href="projects/woqod/README.md">View project →</a></td>
+<td width="320" valign="top"><a href="projects/clinical-studypal/README.md"><img src="assets/projects/clinical-studypal/cover.png" alt="Clinical StudyPal portfolio cover" width="320" /></a><br/><strong><a href="projects/clinical-studypal/README.md">Clinical StudyPal</a></strong><br/>Clinical research ecosystem connecting iPhone, Apple Watch, wearable sensors, and health data.<br/><a href="projects/clinical-studypal/README.md">View project →</a></td>
+<td width="320" valign="top"><a href="projects/clinical-studypal-iwatch/README.md"><img src="assets/projects/clinical-studypal-iwatch/cover.png" alt="Clinical StudyPal iWatch portfolio cover" width="320" /></a><br/><strong><a href="projects/clinical-studypal-iwatch/README.md">Clinical StudyPal iWatch</a></strong><br/>Apple Watch companion for clinical research, study participation, and connected health workflows.<br/><a href="projects/clinical-studypal-iwatch/README.md">View project →</a></td>
+<td width="320" valign="top"><a href="projects/woqod/README.md"><img src="assets/projects/woqod/cover.png" alt="WOQOD portfolio cover" width="320" /></a><br/><strong><a href="projects/woqod/README.md">WOQOD</a></strong><br/>Native iOS services application with service discovery and location-based experiences.<br/><a href="projects/woqod/README.md">View project →</a></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="projects/cvs-health/README.md"><img src="assets/projects/cvs-health/cover.png" alt="CVS Health portfolio cover" width="320" /></a><br/><strong><a href="projects/cvs-health/README.md">CVS Health</a></strong><br/>Healthcare application supporting prescription management, rewards, and shopping workflows.<br/><a href="projects/cvs-health/README.md">View project →</a></td>
-<td width="33%" valign="top"><a href="projects/chick-fil-a/README.md"><img src="assets/projects/chick-fil-a/cover.png" alt="Chick-fil-A portfolio cover" width="320" /></a><br/><strong><a href="projects/chick-fil-a/README.md">Chick-fil-A</a></strong><br/>Mobile ordering application with rewards, order customization, and delivery experiences.<br/><a href="projects/chick-fil-a/README.md">View project →</a></td>
-<td width="33%" valign="top"><a href="projects/mytime/README.md"><img src="assets/projects/mytime/cover.png" alt="MyTime Scheduler for Merchants portfolio cover" width="320" /></a><br/><strong><a href="projects/mytime/README.md">MyTime Scheduler for Merchants</a></strong><br/>Business scheduling application with appointments, point-of-sale, and client communication.<br/><a href="projects/mytime/README.md">View project →</a></td>
+<td width="320" valign="top"><a href="projects/cvs-health/README.md"><img src="assets/projects/cvs-health/cover.png" alt="CVS Health portfolio cover" width="320" /></a><br/><strong><a href="projects/cvs-health/README.md">CVS Health</a></strong><br/>Healthcare application supporting prescription management, rewards, and shopping workflows.<br/><a href="projects/cvs-health/README.md">View project →</a></td>
+<td width="320" valign="top"><a href="projects/chick-fil-a/README.md"><img src="assets/projects/chick-fil-a/cover.png" alt="Chick-fil-A portfolio cover" width="320" /></a><br/><strong><a href="projects/chick-fil-a/README.md">Chick-fil-A</a></strong><br/>Mobile ordering application with rewards, order customization, and delivery experiences.<br/><a href="projects/chick-fil-a/README.md">View project →</a></td>
+<td width="320" valign="top"><a href="projects/mytime/README.md"><img src="assets/projects/mytime/cover.png" alt="MyTime Scheduler for Merchants portfolio cover" width="320" /></a><br/><strong><a href="projects/mytime/README.md">MyTime Scheduler for Merchants</a></strong><br/>Business scheduling application with appointments, point-of-sale, and client communication.<br/><a href="projects/mytime/README.md">View project →</a></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="projects/smoke-with-me/README.md"><img src="assets/projects/smoke-with-me/cover.png" alt="Smoke With Me portfolio cover" width="320" /></a><br/><strong><a href="projects/smoke-with-me/README.md">Smoke With Me</a></strong><br/>Social networking application for community discovery, social feeds, and live sessions.<br/><a href="projects/smoke-with-me/README.md">View project →</a></td>
-<td width="33%" valign="top"><a href="projects/music-player/README.md"><img src="assets/projects/music-player/cover.png" alt="React Native Media Suite portfolio cover" width="320" /></a><br/><strong><a href="projects/music-player/README.md">React Native Media Suite</a></strong><br/>Worked as a **Senior React Native Developer** across a suite of production media applications involving frontend rebuilds, API integrations, media workflows, subscriptions, performance optimization, and App Store delivery.
-
-| Application                         | Store                                                                                      |
-| ----------------------------------- | ------------------------------------------------------------------------------------------ |
-| **Music Player — Songs &amp; Videos**   | [View on App Store](https://apps.apple.com/us/app/music-player-songs-videos/id1662272925)  |
-| **Offline Music Player**            | [View on App Store](https://apps.apple.com/us/app/offline-music-player/id1259949354)       |
-| **Myt — Videos &amp; Songs Streaming**  | [View on App Store](https://apps.apple.com/us/app/myt-videos-songs-streaming/id6738610571) |
-| **InSave — Reels, Stories &amp; Video** | [View on App Store](https://apps.apple.com/us/app/insave-reels-stories-video/id6599859154) |
-| **SaveTik — Save Tik Videos**       | [View on App Store](https://apps.apple.com/us/app/savetik-save-tik-videos/id6774569640)    |
-
-**Engineering Focus**
-
-`React Native` · `API Integration` · `Media Playback` · `Subscriptions` · `State Management` · `Performance` · `Production Delivery`
-
----
-
-## Music Player — Songs &amp; Videos
-
-Music and video application with discovery, playback, and a personal media library.<br/><a href="projects/music-player/README.md">View project →</a></td>
-<td width="33%" valign="top"><a href="projects/offline-music-player/README.md"><img src="assets/projects/offline-music-player/cover.png" alt="Offline Music Player portfolio cover" width="320" /></a><br/><strong><a href="projects/offline-music-player/README.md">Offline Music Player</a></strong><br/>Music application with offline listening, smart playlists, and audio equalizer controls.<br/><a href="projects/offline-music-player/README.md">View project →</a></td>
+<td width="320" valign="top"><a href="projects/smoke-with-me/README.md"><img src="assets/projects/smoke-with-me/cover.png" alt="Smoke With Me portfolio cover" width="320" /></a><br/><strong><a href="projects/smoke-with-me/README.md">Smoke With Me</a></strong><br/>Social networking application for community discovery, social feeds, and live sessions.<br/><a href="projects/smoke-with-me/README.md">View project →</a></td>
+<td width="320" valign="top"><a href="projects/music-player/README.md"><img src="assets/projects/music-player/cover.png" alt="Music Player — Songs &amp; Videos portfolio cover" width="320" /></a><br/><strong><a href="projects/music-player/README.md">Music Player — Songs &amp; Videos</a></strong><br/>Music and video application with discovery, playback, and a personal media library.<br/><a href="projects/music-player/README.md">View project →</a></td>
+<td width="320" valign="top"><a href="projects/offline-music-player/README.md"><img src="assets/projects/offline-music-player/cover.png" alt="Offline Music Player portfolio cover" width="320" /></a><br/><strong><a href="projects/offline-music-player/README.md">Offline Music Player</a></strong><br/>Music application with offline listening, smart playlists, and audio equalizer controls.<br/><a href="projects/offline-music-player/README.md">View project →</a></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="projects/myt/README.md"><img src="assets/projects/myt/cover.png" alt="Myt — Videos &amp; Songs Streaming portfolio cover" width="320" /></a><br/><strong><a href="projects/myt/README.md">Myt — Videos &amp; Songs Streaming</a></strong><br/>Music and video streaming application with discovery, search, and playback.<br/><a href="projects/myt/README.md">View project →</a></td>
-<td width="33%" valign="top"><a href="projects/insave/README.md"><img src="assets/projects/insave/cover.png" alt="InSave — Reels, Stories &amp; Video portfolio cover" width="320" /></a><br/><strong><a href="projects/insave/README.md">InSave — Reels, Stories &amp; Video</a></strong><br/>Media utility for finding, saving, and sharing stories, reels, and videos.<br/><a href="projects/insave/README.md">View project →</a></td>
-<td width="33%" valign="top"><a href="projects/savetik/README.md"><img src="assets/projects/savetik/cover.png" alt="SaveTik — Save Tik Videos portfolio cover" width="320" /></a><br/><strong><a href="projects/savetik/README.md">SaveTik — Save Tik Videos</a></strong><br/>Video utility for finding videos, saving media, and organizing collections.<br/><a href="projects/savetik/README.md">View project →</a></td>
+<td width="320" valign="top"><a href="projects/myt/README.md"><img src="assets/projects/myt/cover.png" alt="Myt — Videos &amp; Songs Streaming portfolio cover" width="320" /></a><br/><strong><a href="projects/myt/README.md">Myt — Videos &amp; Songs Streaming</a></strong><br/>Music and video streaming application with discovery, search, and playback.<br/><a href="projects/myt/README.md">View project →</a></td>
+<td width="320" valign="top"><a href="projects/insave/README.md"><img src="assets/projects/insave/cover.png" alt="InSave — Reels, Stories &amp; Video portfolio cover" width="320" /></a><br/><strong><a href="projects/insave/README.md">InSave — Reels, Stories &amp; Video</a></strong><br/>Media utility for finding, saving, and sharing stories, reels, and videos.<br/><a href="projects/insave/README.md">View project →</a></td>
+<td width="320" valign="top"><a href="projects/savetik/README.md"><img src="assets/projects/savetik/cover.png" alt="SaveTik — Save Tik Videos portfolio cover" width="320" /></a><br/><strong><a href="projects/savetik/README.md">SaveTik — Save Tik Videos</a></strong><br/>Video utility for finding videos, saving media, and organizing collections.<br/><a href="projects/savetik/README.md">View project →</a></td>
 </tr>
 </table>
 

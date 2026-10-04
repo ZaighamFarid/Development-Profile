@@ -1,28 +1,10 @@
 [← Back to portfolio](../../README.md#projects)
 
-# React Native Media Suite
-
-Worked as a **Senior React Native Developer** across a suite of production media applications involving frontend rebuilds, API integrations, media workflows, subscriptions, performance optimization, and App Store delivery.
-
-| Application                         | Store                                                                                      |
-| ----------------------------------- | ------------------------------------------------------------------------------------------ |
-| **Music Player — Songs & Videos**   | [View on App Store](https://apps.apple.com/us/app/music-player-songs-videos/id1662272925)  |
-| **Offline Music Player**            | [View on App Store](https://apps.apple.com/us/app/offline-music-player/id1259949354)       |
-| **Myt — Videos & Songs Streaming**  | [View on App Store](https://apps.apple.com/us/app/myt-videos-songs-streaming/id6738610571) |
-| **InSave — Reels, Stories & Video** | [View on App Store](https://apps.apple.com/us/app/insave-reels-stories-video/id6599859154) |
-| **SaveTik — Save Tik Videos**       | [View on App Store](https://apps.apple.com/us/app/savetik-save-tik-videos/id6774569640)    |
-
-**Engineering Focus**
-
-`React Native` · `API Integration` · `Media Playback` · `Subscriptions` · `State Management` · `Performance` · `Production Delivery`
-
----
-
-## Music Player — Songs & Videos
+# Music Player — Songs & Videos
 
 Music and video application with discovery, playback, and a personal media library.
 
-[![React Native Media Suite — portfolio cover](../../assets/projects/music-player/cover.png)](../../assets/projects/music-player/cover.png)
+[![Music Player — Songs & Videos — portfolio cover](../../assets/projects/music-player/cover.png)](../../assets/projects/music-player/cover.png)
 
 ### Feature Gallery
 
